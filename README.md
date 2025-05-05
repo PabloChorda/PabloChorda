@@ -9,7 +9,4 @@
 
 ---
 
-<p align="center" style="font-size: 1.2em; line-height: 1.5; font-weight: 500; color: #444;">
-  ¡Gracias por pasarte por mi perfil! Aquí comparto mis proyectos de desarrollo web, 
-  mis avances de aprendizaje y todo lo que me inspira a seguir creciendo.
-</p>
+<h3 align="center">Gracias por pasarte por mi perfil. Aquí comparto mis proyectos de desarrollo web, mis avances de aprendizaje y todo lo que me inspira a seguir creciendo como desarrollador. Actualmente, me estoy especializando en backend con Python y sigo formándome cada día para aportar soluciones útiles y creativas.</h3>
