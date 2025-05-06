@@ -138,6 +138,21 @@
   />
 </div>
 
+### <u>Certificados :</u>
+
+<p align="center">
+
+- [Crash Course on Python](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%201-Certificate%20Crash%20Course%20on%20Python.pdf)  
+- [Using Python to Interact with the Operating System](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%202-Certificate%20Using%20Python%20to%20Interact%20with%20the%20Operating%20System.pdf)  
+- [Introduction to Git and GitHub](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%203-Certificate%20Introduction%20to%20Git%20and%20GitHub.pdf)  
+- [Troubleshooting and Debugging Techniques](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%204-Certificate%20Troubleshooting%20and%20Debugging%20Techniques.pdf)  
+- [Configuration Management and the Cloud](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%205-Certificate%20Configuration%20Management%20and%20the%20Cloud.pdf)  
+- [Automating Real‑World Tasks with Python](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%206-Certificate%20Automating%20Real-World%20Tasks%20with%20Python.pdf)  
+- [Coursera Google 320 Hours](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Coursera%20Google%20320%20Hours.png)  
+
+</p>
+
+
 ### <u>Contacto :</u>
 
 <p align="center">
@@ -168,12 +183,10 @@
     />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/pcp_vlc/">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-      title="Sígueme en Instagram"
-      height="25"
+  <a href="https://discord.com/users/PabloChorda" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+      alt="Discord" 
     />
   </a>
 </p>
