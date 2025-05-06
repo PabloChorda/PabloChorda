@@ -1,9 +1,10 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?color=%23777777&size=24&center=true&vCenter=true&width=600&height=50&lines=%C2%A1Hola!+Soy+Pablo+Chorda+%F0%9F%98%80;Apasionado+por+el+desarrollo+web+%F0%9F%92%BB;En+continua+formaci%C3%B3n+%F0%9F%93%9A;Construyendo+soluciones+creativas+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&center=true&vCenter=true&width=600&height=50&lines=%C2%A1Hola!+Soy+Pablo+Chorda+%F0%9F%98%80;Apasionado+por+el+desarrollo+web+%F0%9F%92%BB;En+continua+formaci%C3%B3n+%F0%9F%93%9A;Construyendo+soluciones+creativas+%F0%9F%9A%80"
     alt="Headline"
-/>
+  />
 </div>
+
 
 
 
@@ -14,7 +15,7 @@
 ---
 
 
-### <u> Languajes: </u>
+### <u>Lenguajes :</u>
 
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />
@@ -33,11 +34,19 @@
 </span>
 &nbsp;
 <span>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />
+</span>
+&nbsp;
+<span>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
 </span>
 &nbsp;
 <span>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
 </span>
 &nbsp;
 <span>
@@ -47,7 +56,131 @@
 <span>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
 </span>
-&nbsp;
-
 <br>
+
+### <u>Bases de datos :</u>
+
+<span>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo" title="Redis" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+</span>
+<br>
+
+### <u>IDEs y herramientas :</u>
+
+<span>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code logo" title="Visual Studio Code" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse logo" title="Eclipse" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans logo" title="Apache NetBeans" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Apache Maven logo" title="Apache Maven" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman logo" title="Postman" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva logo" title="Canva" height="25" />
+</span>
+&nbsp;
+<span>
+  <img src="https://img.shields.io/badge/Adobe-FE0F00?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe logo" title="Adobe" height="25" />
+</span>
+<br>
+
+### <u>GitHub Analytics :</u>
+
+<div align="center">
+  <!-- GitHub Readme Stats: Estadísticas generales -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PabloChorda&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats" 
+  />
+</div>
+
+<div align="center">
+  <!-- Top Languages: Lenguajes más usados -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloChorda&layout=compact&theme=transparent&langs_count=6" 
+    alt="Top Languages" 
+  />
+</div>
+
+<div align="center">
+  <!-- Streak Stats: Racha de contribuciones -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PabloChorda&theme=transparent" 
+    alt="GitHub Streak" 
+  />
+</div>
+
+### <u>Contacto :</u>
+
+<p align="center">
+  <a href="mailto:pablochorda365@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+      title="Envíame un email"
+      height="25"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pablo-chorda-penades-67ba35310/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      title="Conéctate en LinkedIn"
+      height="25"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/PabloChordaPenades">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+      title="Sígueme en Facebook"
+      height="25"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/pcp_vlc/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+      title="Sígueme en Instagram"
+      height="25"
+    />
+  </a>
+</p>
+
+
+
+
+
+
 
