@@ -142,16 +142,18 @@
 
 <p align="center">
 
-- [Crash Course on Python](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%201-Certificate%20Crash%20Course%20on%20Python.pdf)  
-- [Using Python to Interact with the Operating System](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%202-Certificate%20Using%20Python%20to%20Interact%20with%20the%20Operating%20System.pdf)  
-- [Introduction to Git and GitHub](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%203-Certificate%20Introduction%20to%20Git%20and%20GitHub.pdf)  
-- [Troubleshooting and Debugging Techniques](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%204-Certificate%20Troubleshooting%20and%20Debugging%20Techniques.pdf)  
-- [Configuration Management and the Cloud](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%205-Certificate%20Configuration%20Management%20and%20the%20Cloud.pdf)  
-- [Automating Real‑World Tasks with Python](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%206-Certificate%20Automating%20Real-World%20Tasks%20with%20Python.pdf)  
-- [Coursera Google 320 Hours](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Coursera%20Google%20320%20Hours.png)  
+- [Curso Python Intermedio (MoureDevPro)](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Curso_Python_Intermedio_MoureDevPro.pdf) &nbsp;
+- [Curso Python Desde 0 (MoureDevPro)](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Curso_Python_Desde_0_MoureDevPro.pdf) &nbsp;
+- [Crash Course on Python](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%201-Certificate%20Crash%20Course%20on%20Python.pdf) &nbsp;
+- [Using Python to Interact with the Operating System](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%202-Certificate%20Using%20Python%20to%20Interact%20with%20the%20Operating%20System.pdf) &nbsp;
+- [Introduction to Git and GitHub](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%203-Certificate%20Introduction%20to%20Git%20and%20GitHub.pdf) &nbsp;
+- [Troubleshooting and Debugging Techniques](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%204-Certificate%20Troubleshooting%20and%20Debugging%20Techniques.pdf) &nbsp;
+- [Configuration Management and the Cloud](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%205-Certificate%20Configuration%20Management%20and%20the%20Cloud.pdf) &nbsp;
+- [Automating Real‑World Tasks with Python](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Google%206-Certificate%20Automating%20Real-World%20Tasks%20with%20Python.pdf) &nbsp;
+- [Coursera Google 320 Hours](https://raw.githubusercontent.com/PabloChorda/mi-perfil/master/google_certificates/Coursera%20Google%20320%20Hours.png) &nbsp;
+
 
 </p>
-
 
 ### <u>Contacto :</u>
 
